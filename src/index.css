@@ -12,3 +12,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.even-highlighted {
+  color: orange;
+}
+
+.odd-highlighted {
+  color: green;
+}
+
+.plain {
+  color: black;
+}
+
